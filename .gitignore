@@ -1,0 +1,14 @@
+# Environments & Secrets
+.env
+
+
+
+# Python Virtual Environments
+.env
+venv/
+.venv/
+__pycache__/
+# Vs code Files
+.vscode/
+
+.ipynb_checkpoints/
